@@ -1,0 +1,1 @@
+add config.cfg file to run server.
